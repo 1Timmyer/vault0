@@ -12,7 +12,6 @@ void enableInterrupts(){
 
 - ```cli()``` disabled globale Interrupts
 
-```
 ## ISR
 
 - Interrupt Service Routine wird bei einem Interrupt ausgeführt dafür braucht man einen Interrupt Vector
@@ -35,3 +34,12 @@ void setExtInt(){
 }
 ```
 
+## Interrupt auslösen
+
+```C
+void sentInter(){
+
+	EIMSK |= (1<<INT0)
+
+}
+```
