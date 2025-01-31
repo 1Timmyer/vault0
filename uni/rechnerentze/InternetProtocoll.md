@@ -1,4 +1,41 @@
-## IPv4 Header
+- Hierachische Addressierung von Endpunkten
+- Ermöglicht Verbindungen über den lokalen Netzwerkbereich hinaus
+
+## IPv4 
+
+### Addresse und Subnetting
+- 32 Bits lang
+- Haben die Form: ```0.0.0.0 - 255.255.255.255```
+- Haben einen Netz und Host Anteil
+- Netz Anteil wird durch die Subnetzmaske angegeben (/24 entspricht 24 Bits)
+
+#### Adressklassen
+
+| Klasse | Netzwerk Anteil |
+| ------ | --------------- |
+| A      | 8 Bit           |
+| B      | 12 Bit          |
+| C      | 16 Bit          |
+
+### IPv4 Header
+
+| *Bits* | *Name*               |     |
+| ------ | -------------------- | --- |
+| 4      | Version              |     |
+| 4      | Header Length        |     |
+| 8      | Type of Service      |     |
+| 16     | Paketlänge           |     |
+| 16     | Identifikation       |     |
+| 3      | Flags                |     |
+| 13     | Fragment Offset      |     |
+| 8      | Time to Live         |     |
+| 8      | Protokoll            |     |
+| 16     | Header Checksum      |     |
+| 32     | Quell Adresse        |     |
+| 32     | Ziel Adresse         |     |
+| x      | Optionen und Padding |     |
+- Zwischen 20 und 60 Bytes lang
+
 
 
 
