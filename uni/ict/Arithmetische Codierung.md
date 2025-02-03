@@ -1,0 +1,3 @@
+- Jedem Zeichen wird anhand der Eintrittswahrscheinlichkeit ein Intervall zugeordnet
+- Das Gesamt Intervall wird in jedem Schritt mit dem Intervall des auftretenen Zeichen ersetzt
+- Es wird die Grenze des letzten Intervalls gewählt, dass die wenigsten Nachkommastellen hat

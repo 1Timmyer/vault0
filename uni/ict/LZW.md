@@ -1,0 +1,1 @@
+- Wörterbuch komprimierung

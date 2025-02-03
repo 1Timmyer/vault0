@@ -5,6 +5,11 @@
 - Spannung wird durch Widerstände aufgeteilt
 - $2^n-1$ Komparatoren, $n$ Anzahl der Bits
 
+## Rampenwandler (Single Slope)
+- Spannung wird mit einer Referenzspannung verglichen
+- mit jedem Takt wird die $U_{ref}$ erhöht
+- Wenn 
+
 ## Sukzessive Approximation
 
 - Summe aus Bruchteilen der Spannung bei denen eine 1 Gemessen wird z.B.

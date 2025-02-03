@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d78ba2ec0f1ef3fc",
+        "id": "ffbbdd47341825c5",
         "type": "tabs",
         "children": [
           {
@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uni/ict/Zyklische Codes.md",
+                "file": "uni/as&bs/Analog Digital Wandler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zyklische Codes"
+              "title": "Analog Digital Wandler"
             }
           },
           {
-            "id": "1741117a9144c689",
+            "id": "51d9b17dcdd5e26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uni/ict/Huffman Codierung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Huffman Codierung"
+            }
+          },
+          {
+            "id": "a7b054548918038f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +49,7 @@
               "title": "Reed Solomon Codes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,44 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1741117a9144c689",
+  "active": "f5b20a6087bf638d",
   "lastOpenFiles": [
-    "uni/ict/Faltungscodes.md",
-    "uni/ict/Informationstheorie.md",
-    "uni/ict/Reed Solomon Codes.md",
-    "uni/ict/Zyklische Codes.md",
-    "uni/ict/Blockcodes.md",
+    "uni/esus/!Formeln.md",
+    "uni/esus/Fourier Coeffizienten.md",
     "uni/rechnerentze/InternetProtocoll.md",
-    "uni/rechnerentze/OSI Modell.md",
-    "uni/as&bs/Speicher Managment.md",
+    "2025-02-03.md",
+    "Untitled.canvas",
+    "uni/as&bs/Interprozesskommunikation.md",
     "uni/as&bs/TimerProgrammierung.md",
+    "uni/as&bs/Prozesse.md",
+    "uni/rechnerentze/OSI Modell.md",
+    "uni/rechnerentze/Transportprotokolle.md",
+    "uni/rechnerentze/Domain Name Service (DNS).md",
+    "uni/ict/Zyklische Codes.md",
+    "uni/ict/Huffman Codierung.md",
+    "uni/as&bs/Speicher Managment.md",
+    "uni/as&bs/Analog Digital Wandler.md",
+    "uni/esus",
+    "uni/ict/Turbo Codes.md",
+    "uni/ict/Reed Solomon Codes.md",
+    "uni/ict/Faltungscodes.md",
+    "uni/ict/Blockcodes.md",
+    "uni/ict/LZW.md",
+    "uni/as&bs/PortProgrammierung.md",
+    "uni/ict/Informationstheorie.md",
+    "uni/ict/Arithmetische Codierung.md",
+    "uni/ict/Turbo Codes",
     "uni/ict/Kapitel 6-4.pdf",
     "uni/as&bs/InterruptProgramming.md",
-    "uni/rechnerentze/Untitled.md",
-    "uni/as&bs/Interprozesskommunikation.md",
-    "uni/as&bs/Prozesse.md",
-    "Untitled.canvas",
-    "uni/as&bs/Analog Digital Wandler.md",
-    "uni/as&bs/PortProgrammierung.md",
     "uni/ict",
     "uni/ana2/diif_gleichungen.md",
     "uni/ana2/ang_harmon_oszillator.md",
-    "uni/ana2/extremwert_multi.md",
-    "uni/ana2/harmonischer_oszilator.md",
-    "uni/ana2/lösen_diff_gleich_system.md",
-    "uni/ana2/test_klausur.md",
-    "uni/ana2/Lösungen_diff_gleichungen.md",
-    "uni/ana2/reduzierung_ordung.md",
-    "uni/ana2/integral_multi.md",
     "uni/ana2",
     "uni/Neuer Ordner",
-    "create a link.md",
-    "2025-01-29.md",
     "uni/as&bs",
     "uni/rechnerentze/Untitled",
     "uni/rechnerentze",
-    "Untitled",
-    "uni",
-    "desktop.ini"
+    "uni"
   ]
 }

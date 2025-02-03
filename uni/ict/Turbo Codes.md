@@ -1,0 +1,1 @@
+- Zwei Faltungscodes die mit einem Interleaver getrennt sind
