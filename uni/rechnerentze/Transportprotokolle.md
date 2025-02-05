@@ -9,8 +9,22 @@
 
 - Verbindungslos
 - jedes UDP Segment wird einzeln betrachtet
-- 
+- Wenig Verzögerung, wenig Overhead, funktioniert auch in Überlastsituationen
+
+#### Checksum
+
+**Sender**:
+- Daten als 16 Bit Zahlen addieren (mit Überschlag)
+- Einer Komplement bilden (alle Bits umdrehen)
+
+**Empfänger**
+- Daten als 16 Bit Zahlen addieren (mit Überschlag)
+- mit Empfangener Zahl addieren, wenn nur 1 dann valide 
+
 #### QUIC
+- Verbindungaufbau, Fehler und Überlastkontrolle, Staukontrolle  (wie TCP)
+- Authentifizierung, Verschlüsselung
+- Verbindungsaufbau und kryptographische Aushandlung mit einem Handshake
 
 ## TCP
 - ermöglicht eine zuverlässige Punkt zu Punkt Übertragung der Datensegmente in Voll-Duplex

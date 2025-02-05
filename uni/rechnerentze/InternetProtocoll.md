@@ -1,21 +1,24 @@
-- Hierachische Addressierung von Endpunkten
+- Hierachische Adressierung von Endpunkten
 - Ermöglicht Verbindungen über den lokalen Netzwerkbereich hinaus
 
 ## IPv4 
 
-### Addresse und Subnetting
+### Adresse und Subnetting
 - 32 Bits lang
 - Haben die Form: ```0.0.0.0 - 255.255.255.255```
 - Haben einen Netz und Host Anteil
 - Netz Anteil wird durch die Subnetzmaske angegeben (/24 entspricht 24 Bits)
+#### VLSM (Variable Length Subnet Masking)
+- IP Adresse hat Subnetzanteil
+- Subnetzanteil wird dem Netzwerk Anteil hinzugefügt
 
 #### Adressklassen
 
 | Klasse | Netzwerk Anteil |
 | ------ | --------------- |
 | A      | 8 Bit           |
-| B      | 12 Bit          |
-| C      | 16 Bit          |
+| B      | 16 Bit          |
+| C      | 24 Bit          |
 
 ### IPv4 Header
 
@@ -35,7 +38,6 @@
 | 32     | Ziel Adresse         |     |
 | x      | Optionen und Padding |     |
 - Zwischen 20 und 60 Bytes lang
-
-
+## IPv6 
 
 
