@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uni/rechnerentze/Transportprotokolle.md",
+                "file": "uni/ict/Wörterbuchkompression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transportprotokolle"
+              "title": "Wörterbuchkompression"
             }
           },
           {
@@ -264,13 +264,14 @@
   },
   "active": "063833ef92f342cd",
   "lastOpenFiles": [
-    "uni/rechnerentze/OSI Modell.md",
     "uni/rechnerentze/Transportprotokolle.md",
-    "uni/as&bs/PortProgrammierung.md",
+    "uni/rechnerentze/OSI Modell.md",
+    "uni/rechnerentze/InternetProtocoll.md",
+    "uni/ict/Reed Solomon Codes.md",
     "uni/as&bs/Interprozesskommunikation.md",
+    "uni/as&bs/PortProgrammierung.md",
     "uni/as&bs/Analog Digital Wandler.md",
     "uni/ict/Informationstheorie.md",
-    "uni/ict/Reed Solomon Codes.md",
     "uni/ict/Turbo Codes.md",
     "uni/ict/Zyklische Codes.md",
     "uni/ict/Wörterbuchkompression.md",
@@ -285,7 +286,6 @@
     "uni/esus/!Formeln.md",
     "uni/esus/Fourier Coeffizienten.md",
     "uni/ict/Blockcodes.md",
-    "uni/rechnerentze/InternetProtocoll.md",
     "uni/rechnerentze/Hypertext Transfer Protokoll (HTTP).md",
     "uni/as&bs/Speicher Managment.md",
     "uni/as&bs/InterruptProgramming.md",
