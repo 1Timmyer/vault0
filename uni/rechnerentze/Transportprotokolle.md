@@ -9,6 +9,8 @@
 
 - Verbindungslos
 - jedes UDP Segment wird einzeln betrachtet
+<<<<<<< HEAD
+=======
 - Wenig Verzögerung, wenig Overhead, funktioniert auch in Überlastsituationen
 
 #### Checksum
@@ -20,6 +22,7 @@
 **Empfänger**
 - Daten als 16 Bit Zahlen addieren (mit Überschlag)
 - mit Empfangener Zahl addieren, wenn nur 1 dann valide 
+>>>>>>> 2c76cb87fe447ad400bb95b765987d2dba6a7829
 
 #### QUIC
 - Verbindungaufbau, Fehler und Überlastkontrolle, Staukontrolle  (wie TCP)

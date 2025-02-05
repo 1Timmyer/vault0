@@ -13,7 +13,7 @@ Modulo 2 Addition := XOR
 - Ein Blockcode ist linear wenn:
 $$C_k = C_i + C_j$$
 
- - jeder Block hat $K$ Narichtenbits und Codiert in einen Block mit $n$ Bits in dem nan $(n-K)$ Paritätsbit addiert 
+ - jeder Block hat $K$ Narichtenbits und Codiert in einen Block mit $n$ Bits in dem man $(n-K)$ Paritätsbit addiert 
  - Das Gewicht eines Codes ist die Anzahl der Stellen die nicht $0$ sind z.B.
  $$\{0101\},w  =2 $$
  - Die Distanz eines zweier Codes ist die Anzahl der unterschiedlichen Stellen z.B.
