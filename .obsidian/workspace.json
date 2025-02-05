@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "uni/rechnerentze/Domain Name Service (DNS).md",
                 "mode": "source",
                 "source": false
@@ -70,11 +71,14 @@
               "type": "markdown",
               "state": {
                 "file": "uni/ict/Informationstheorie.md",
+=======
+                "file": "uni/ict/Huffman Codierung.md",
+>>>>>>> 2c76cb87fe447ad400bb95b765987d2dba6a7829
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informationstheorie"
+              "title": "Huffman Codierung"
             }
           },
           {
@@ -264,6 +268,7 @@
   },
   "active": "063833ef92f342cd",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "uni/rechnerentze/Transportprotokolle.md",
     "uni/rechnerentze/OSI Modell.md",
     "uni/rechnerentze/InternetProtocoll.md",
@@ -290,6 +295,32 @@
     "uni/as&bs/Speicher Managment.md",
     "uni/as&bs/InterruptProgramming.md",
     "uni/as&bs/TimerProgrammierung.md",
+=======
+    "uni/ict/Informationstheorie.md",
+    "uni/ict/Turbo Codes.md",
+    "uni/ict/LZW.md",
+    "uni/ict/Faltungscodes.md",
+    "uni/ict/Blockcodes.md",
+    "uni/ict/Arithmetische Codierung.md",
+    "uni/esus/!Formeln.md",
+    "uni/esus/Fourier Coeffizienten.md",
+    "uni/as&bs/Analog Digital Wandler.md",
+    "uni/as&bs/Interprozesskommunikation.md",
+    "uni/as&bs/PortProgrammierung.md",
+    "uni/as&bs/Prozesse.md",
+    "uni/as&bs/TimerProgrammierung.md",
+    "uni/as&bs/Speicher Managment.md",
+    "uni/rechnerentze/Transportprotokolle.md",
+    "uni/rechnerentze/OSI Modell.md",
+    "uni/rechnerentze/InternetProtocoll.md",
+    "uni/rechnerentze/Hypertext Transfer Protokoll (HTTP).md",
+    "uni/rechnerentze/Domain Name Service (DNS).md",
+    "uni/ict/Zyklische Codes.md",
+    "uni/as&bs/InterruptProgramming.md",
+    "uni/ict/Reed Solomon Codes.md",
+    "uni/ict/Huffman Codierung.md",
+    "2025-02-03.md",
+>>>>>>> 2c76cb87fe447ad400bb95b765987d2dba6a7829
     "Untitled.canvas",
     "uni/esus",
     "uni/ict/Turbo Codes",
