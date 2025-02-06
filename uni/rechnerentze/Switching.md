@@ -16,3 +16,4 @@
 - Übersetzt IP-Adressen in MAC-Adressen
 - Tabelle wird im ARP-Cache gespeichert
 - Proxy ARP antwortet für einen andern Knoten -> Verbindungen über zwei Netzsegmente
+
