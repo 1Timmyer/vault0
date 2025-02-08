@@ -1,4 +1,9 @@
-
+### Anforderungen
+- Relocation
+- Protection
+- Sharing
+- Logical Organization
+- Physical Organization
 ## Dynamische Partitionierung
 
 

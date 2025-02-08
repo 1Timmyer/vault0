@@ -7,7 +7,7 @@
 
 ## Rampenwandler (Single Slope)
 - Spannung wird mit einer Referenzspannung verglichen
-- mit jedem Takt wird die $U_{ref}$ erhöht
+- mit jedem Takt wird die $U_{ref}$ erhöht (linear)
 - Wenn 
 
 ## Sukzessive Approximation
