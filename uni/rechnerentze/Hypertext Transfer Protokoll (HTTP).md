@@ -5,16 +5,16 @@
 - Nutzt TCP/IP-Sockets
 ### Methoden
 
-| Methode |     |
-| ------- | --- |
-| GET     |     |
-| POST    |     |
-| PUT     |     |
-| DELETE  |     |
-| CONNECT |     |
-| HEAD    |     |
-| OPTIONS |     |
-| TRACE   |     |
+| Methode |
+| ------- |
+| GET     |
+| POST    |
+| PUT     |
+| DELETE  |
+| CONNECT |
+| HEAD    |
+| OPTIONS |
+| TRACE   |
 
 ## Status Codes
 
