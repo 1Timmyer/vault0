@@ -31,7 +31,7 @@
 ### CSMS/CD (Carrier Sense Multiple Access with Collision Detection)
 - Listen-Before-Talk (LBT), wenn Medium frei, dann Senden
 - Listen-While-Talk, erkennen von Kollisionen
-- Wenn Kollision Backoff algorithmus
+- Wenn Kollision Backoff Algorithmus
 **Backoff**: Station nimmt eine zufällige Zahl zwischen $0$ und $2^k$ ,$k$ Anzahl der gescheiterten Wiederholungsversuche ($k \le 10$)
 - Wartezeit $W = r \cdot slotTime$  
 
